@@ -10,3 +10,6 @@
     1. Please refer to the [following link for background](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
     2. Github [link to code](https://github.com/saadmansoor93/dynamic-programming-in-ruby/blob/master/longest_common_subsequence.rb)
  
+2. Matrix Chain Multiplication Cost problem
+   1. Please refer to the [following link for background](https://en.wikipedia.org/wiki/Matrix_chain_multiplication)
+   2. Github [link to code](https://github.com/saadmansoor93/dynamic-programming-in-ruby/blob/master/problems/matrix_chain_multiplication.rb)
